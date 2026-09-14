@@ -1,3 +1,21 @@
+<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<div align="center">
+
+![trivy — 3D](assets/3d-hero.svg)
+
+**made by [Mayank Bhaskar](https://github.com/qtjg)** · ![lang](https://img.shields.io/badge/lang-Code-2596be?style=flat&labelColor=0d1117) ![stars](https://img.shields.io/github/stars/qtjg/trivy?style=flat&labelColor=0d1117&color=2596be)
+
+### 🧊 3D View
+
+![trivy — isometric stack](assets/3d-stack.svg)
+
+*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+
+</div>
+
+---
+🩺 **New tool — `repo-pulse`**: instant git pulse (28-day heat bars, hot files, contributors). Run: `python3 tools/repo_pulse.py`
+
 <div align="center">
 <img src="docs/imgs/logo.png" width="200">
 
