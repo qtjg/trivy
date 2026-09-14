@@ -2,18 +2,10 @@
   <img src="docs/assets/3d-banner.svg" alt="trivy 3D banner" width="880" />
 </p>
 
-<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<!-- ⬡ 3D-UPGRADE v2 by Mayank Bhaskar -->
 <div align="center">
 
-![trivy — 3D](assets/3d-hero.svg)
-
 **made by [Mayank Bhaskar](https://github.com/qtjg)** · ![lang](https://img.shields.io/badge/lang-Code-2596be?style=flat&labelColor=0d1117) ![stars](https://img.shields.io/github/stars/qtjg/trivy?style=flat&labelColor=0d1117&color=2596be)
-
-### 🧊 3D View
-
-![trivy — isometric stack](assets/3d-stack.svg)
-
-*Floating isometric render — layers hover, data particles stream, shine sweeps.*
 
 </div>
 
